@@ -1,5 +1,5 @@
 # Welcome to Applied Data Science Specialization capstone project!
-### *This repository will be mainly be used for code updates.* 
+### *This repository will be mainly used for code updates.* 
 
 
 <br/> Basic Git commands include:
