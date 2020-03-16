@@ -2,7 +2,7 @@
 ### *This repository will be mainly be used for code updates.* 
 
 
-<br/> Some basic Git commands are:
+<br/> Basic Git commands include:
 ```
 git status
 git add
